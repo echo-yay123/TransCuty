@@ -3,8 +3,8 @@ use tinyrand::{Rand, StdRand};
 
 
 //User information from baidu
-const APP_ID: &str = "20230512001675057";
-const KEY: &str = "Q5iqO28l4OUhIiQlM3FZ";
+const APP_ID: &str = "";
+const KEY: &str = "";
 const BASE_URL :&str = "http://api.fanyi.baidu.com/api/trans/vip/translate?";
 
 
